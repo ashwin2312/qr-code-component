@@ -1,10 +1,12 @@
 body{
+    height: 100vh;
     background-color: #D5E1EF;
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
     display: flex;
     justify-content: center;
-    /* align-items: center; */
+    align-items: center;
+    /* border: 1px solid black; */
 }
 
 .main{
